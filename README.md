@@ -8,7 +8,7 @@ Skilled in data cleansing and visualization, developing SQL/ETL queries, analyzi
 
 I have strong analytical skills with the ability to interpret complex data, provide data-driven insights, and present findings to stakeholders. 
 
-Certified by Cisco and graduated with a degree in Economics.
+Certified by Cisco and graduated with a Master’s degree in Finance.
 
 My LinkedIn https://www.linkedin.com/in/helenrybakova/
 
